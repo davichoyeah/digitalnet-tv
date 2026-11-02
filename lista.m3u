@@ -27,6 +27,8 @@ http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 group-title="Variados",GARAGE TV AUTOS
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1 group-title="Variados",SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1 group-title="Pack HBO",HBO Xtreme LA
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 #EXTINF:-1 group-title="Pack HBO",HBO Plus LA
@@ -67,7 +69,27 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 https://doubo.tv/04cb5b84-3642-4c0e-8431-6962ee81015d"}
 #EXTINF:-1 group-title="Pack DEPORTES",F1 LATINOAMERICA
 http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
-#EXTINF:-1 group-title="MUSICA",TELEHIT PLUS
-http://189.216.247.113/Content/HLS/Live/Channel(TELEHIT)/Stream(05)/index.m3u8
+#EXTINF:-1 group-title="MUSICA",TELEHIT
+http://189.216.247.113/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
 #EXTINF:-1 group-title="MUSICA",ROCK NACIONAL
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:-1 group-title="ADULTO +18",BRAZZERS SUR
+http://static.brazzers.com/scenes/7119/180sec.flv
+#EXTINF:-1 group-title="ADULTO +18",BRAZZERS NORTE
+http://static.brazzers.com/scenes/5457/180sec.flv
+#EXTINF:-1 group-title="ADULTO +18",BRAZZERS ESTE
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:-1 group-title="ADULTO +18",BRAZZERS OESTE
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:-1 group-title="ADULTO +18",XXX Adultos 1
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+#EXTINF:-1 group-title="ADULTO +18",XXX Adultos 2
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+#EXTINF:-1 group-title="ADULTO +18",XXX Adultos 3
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+#EXTINF:-1 group-title="ADULTO +18",XXX Adultos 4
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+#EXTINF:-1 group-title="ADULTO +18",XXX Adultos 5
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+#EXTINF:-1 group-title="ADULTO +18",BABES +18
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
