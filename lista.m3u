@@ -61,3 +61,7 @@ http://181.78.79.131:8000/play/a0q9
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 group-title="Pack DEPORTES",TyC SPORT
 https://doubo.tv/04cb5b84-3642-4c0e-8431-6962ee81015d"}
+#EXTINF:-1 group-title="MUSICA",TELEHIT PLUS
+http://189.216.247.113/Content/HLS/Live/Channel(TELEHIT)/Stream(05)/index.m3u8
+#EXTINF:-1 group-title="MUSICA",ROCK NACIONAL
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
