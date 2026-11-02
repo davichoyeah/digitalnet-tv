@@ -6,7 +6,7 @@ https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all
 #EXTINF:-1 group-title="Nacionales",EL TRECE TV
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Nacionales",AMERICA TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+https://stream01-xrolaglsgc.stackpathdns.com/video/BJQRNMF6b.m3u8
 #EXTINF:-1 group-title="Nacionales",CANAL 9
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nacionales",TN
@@ -17,6 +17,14 @@ https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Nacionales",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="Nacionales",CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 group-title="Variados",GOLDEN
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 group-title="Variados",ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 group-title="Variados",GARAGE TV AUTOS
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 #EXTINF:-1 group-title="Pack HBO",HBO Xtreme LA
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 #EXTINF:-1 group-title="Pack HBO",HBO Plus LA
@@ -52,4 +60,4 @@ http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 group-title="Pack DEPORTES",TNT SPORT AR
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 group-title="Pack DEPORTES",TyC SPORT
-https://cdn.jsdelivr.net/gh/streamline-iptv/iptv-playlists@dist/countries/ar.m3u
+https://doubo.tv/04cb5b84-3642-4c0e-8431-6962ee81015d"}
