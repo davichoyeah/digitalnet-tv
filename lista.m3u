@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Nacionales",TELEFE
-https://iptv-org.github.io/channels/us/TelefeNoticias
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 group-title="Nacionales",CRONICA TV
 https://youtu.be/hw4uHyct4vg
 #EXTINF:-1 group-title="Nacionales",EL TRECE TV
 https://youtu.be/Om7Yej-D-s0
 #EXTINF:-1 group-title="Nacionales",AMERICA TV
-https://youtu.be/DSnl5d2BVj0
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 group-title="Nacionales",CANAL 9
 https://youtu.be/yGLVhAklLyM
 #EXTINF:-1 group-title="Nacionales",TN
@@ -18,7 +18,7 @@ https://www.youtube.com/c/A24com/live
 #EXTINF:-1 group-title="Nacionales",TV PUBLICA
 https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 group-title="Nacionales",LN+
-https://www.youtube.com/c/LaNacionMas/live
+https://youtu.be/FEWZjXJ7M0c
 #EXTINF:-1 group-title="Nacionales",CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Variados",GOLDEN
