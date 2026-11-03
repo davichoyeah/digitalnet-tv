@@ -1,7 +1,7 @@
 #EXTM3U
 # ================================================
-#  📰 NOTICIAS
+#  📰 NACIONALES
 #  Pegá cada canal con este formato:
-#  #EXTINF:-1 tvg-logo="URL-DEL-LOGO" group-title="📰 NOTICIAS",Nombre del canal
+#  #EXTINF:-1 tvg-logo="URL-DEL-LOGO" group-title="📰 NACIONALES",Nombre del canal
 #  https://url-del-stream.m3u8
 # ================================================
