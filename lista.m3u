@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:0 group-title="Nacionales",TELEFE
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:0 group-title="Nacionales",CRONICA TV
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://youtu.be/hw4uHyct4vg
+#EXTINF:0 group-title="Nacionales",EL TRECE TV
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://youtu.be/Om7Yej-D-s0
+#EXTINF:0 group-title="Nacionales",AMERICA TV
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0 group-title="Nacionales",CANAL 9
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://youtu.be/yGLVhAklLyM
+#EXTINF:0 group-title="Nacionales",TN NOTICIAS
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://youtu.be/cb12KmMMDJA
+#EXTINF:0 group-title="Nacionales",C5N
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://youtu.be/rZtTUCxpPuI
+#EXTINF:0 group-title="Nacionales",A24
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://youtu.be/ArKbAx1K-2U
+#EXTINF:0 group-title="Nacionales",TV PUBLICA
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://youtu.be/RxN5eh8YTRw
+#EXTINF:0 group-title="Nacionales",LN+
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://youtu.be/FEWZjXJ7M0c
+#EXTINF:0 group-title="Nacionales",CANAL 26
+#EXTGRP:Nacionales
+#EXTVLCOPT:network-caching=1000
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:0 group-title="Entretenimiento",A&E HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
@@ -51,10 +95,6 @@ http://181.78.79.131:8000/play/a0pp
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mu
-#EXTINF:0 group-title="Infantiles",DHE HD
-#EXTGRP:Infantiles
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qv
 #EXTINF:0 group-title="Peliculas",De Pelicula
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
@@ -79,71 +119,71 @@ http://181.78.79.131:8000/play/a0n8
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0p7
-#EXTINF:-1 group-title="-",Disney Channel
+#EXTINF:-1 group-title="Disney",Disney Channel
 #EXTGRP:Disney
 http://190.60.52.28:5001/play/a0d1/index.m3u8
-#EXTINF:-1 group-title="-",Disney HD
+#EXTINF:-1 group-title="Disney",Disney HD
 #EXTGRP:Disney
 http://190.60.52.28:5001/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="-",Disney Jr
+#EXTINF:-1 group-title="Disney",Disney Jr
 #EXTGRP:Disney
 http://190.60.52.28:5001/play/a0c3/index.m3u8
-#EXTINF:-1 group-title="-",Distrito Comedia
+#EXTINF:-1 group-title="Disney",Distrito Comedia
 #EXTGRP:-
 http://190.60.52.28:5001/play/a0ba/index.m3u8
-#EXTINF:-1 group-title="-",E Entertainment
-#EXTGRP:-
+#EXTINF:-1 group-title="Disney",E Entertainment
+#EXTGRP:Disney
 http://190.60.52.28:5001/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="-",ESPN (N)
+#EXTINF:-1 group-title="ESPN",ESPN (N)
 #EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 (N1)
 #EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0f5/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 (N2)
+#EXTINF:-1 group-title="ESPN",ESPN 2 (N2)
 #EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 (N3)
+#EXTINF:-1 group-title="ESPN",ESPN 2 (N3)
 #EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0c6/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD (N2)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 2 HD (N2)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a09t/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 (N)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 3 (N)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD (N2)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 3 HD (N2)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a094/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4HD (N)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 4HD (N)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0as/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 5 (N)
-#EXTGRP:-
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5HD (N2)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 5HD (N2)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a09q/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 (N)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 6 (N)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0de/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6HD (N2)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 6HD (N2)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a095/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7 (N)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 7 (N)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0dd/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7HD (N2)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN 7HD (N2)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD (N)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN HD (N)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD (N1)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN Premium HD (N1)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a09d/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD (N)
-#EXTGRP:-
+#EXTINF:-1 group-title="ESPN",ESPN Premium HD (N)
+#EXTGRP:ESPN
 http://190.60.52.28:5001/play/a0fz/index.m3u8
 #EXTINF:0 group-title="Deportes",ESPN
 #EXTGRP:Deportes
@@ -205,10 +245,6 @@ http://181.78.79.131:8000/play/a0mx
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pf
-#EXTINF:0 group-title="General",HOLA TV HD
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pw
 #EXTINF:0 group-title="Documentales",History Channel
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
@@ -361,8 +397,6 @@ https://mze7u.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.163.94.5
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
-# === PELICULAS & SERIES (Xtrema / cnarlatam) ===
 #EXTINF:0 group-title="Peliculas",Xtrema Accion
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
@@ -427,8 +461,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-
-# === INFANTILES ===
 #EXTINF:0 group-title="Canales Kids",CARTOON NETWORK
 #EXTGRP:Canales Kids
 #EXTVLCOPT:network-caching=1000
@@ -461,8 +493,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTGRP:Canales Kids
 #EXTVLCOPT:network-caching=1000
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-# === DEPORTES (168.232.168.242) ===
 #EXTINF:0 group-title="Deportes",ESPN HD
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
@@ -511,8 +541,6 @@ http://168.232.168.242:4000/play/a03h/index.m3u8
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a03w/index.m3u8
-
-# === ENTRETENIMIENTO (168.232.168.242) ===
 #EXTINF:0 group-title="Entretenimiento",A&E HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
@@ -609,8 +637,6 @@ http://168.232.168.242:4000/play/a053/index.m3u8
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a03z/index.m3u8
-
-# === PELICULAS (168.232.168.242) ===
 #EXTINF:0 group-title="Peliculas",HBO HD
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
@@ -679,8 +705,6 @@ http://168.232.168.242:4000/play/a057/index.m3u8
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a040/index.m3u8
-
-# === DOCUMENTALES (168.232.168.242) ===
 #EXTINF:0 group-title="Documentales",National Geographic HD
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
@@ -729,26 +753,6 @@ http://168.232.168.242:4000/play/a020/index.m3u8
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a00d/index.m3u8
-
-# === NOTICIAS (168.232.168.242) ===
-#EXTINF:0 group-title="Noticias",CNN Internacional
-#EXTGRP:Noticias
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a00v/index.m3u8
-#EXTINF:0 group-title="Noticias",CNN en Espanol
-#EXTGRP:Noticias
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a00w/index.m3u8
-#EXTINF:0 group-title="Noticias",BBC Mundo
-#EXTGRP:Noticias
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a00m/index.m3u8
-#EXTINF:0 group-title="Noticias",RT Noticias
-#EXTGRP:Noticias
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a05b/index.m3u8
-
-# === MUSICA (168.232.168.242) ===
 #EXTINF:0 group-title="Musica",MTV HD
 #EXTGRP:Musica
 #EXTVLCOPT:network-caching=1000
@@ -773,8 +777,6 @@ http://168.232.168.242:4000/play/a04y/index.m3u8
 #EXTGRP:Musica
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a01i/index.m3u8
-
-# === INFANTILES (168.232.168.242) ===
 #EXTINF:0 group-title="Infantiles",Disney Channel
 #EXTGRP:Infantiles
 #EXTVLCOPT:network-caching=1000
@@ -819,50 +821,3 @@ http://168.232.168.242:4000/play/a03b/index.m3u8
 #EXTGRP:Infantiles
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a02s/index.m3u8
-
-# === NACIONALES ===
-#EXTINF:0 group-title="Nacionales",TELEFE
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:0 group-title="Nacionales",CRONICA TV
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/hw4uHyct4vg
-#EXTINF:0 group-title="Nacionales",EL TRECE TV
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/Om7Yej-D-s0
-#EXTINF:0 group-title="Nacionales",AMERICA TV
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:0 group-title="Nacionales",CANAL 9
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/yGLVhAklLyM
-#EXTINF:0 group-title="Nacionales",TN NOTICIAS
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/cb12KmMMDJA
-#EXTINF:0 group-title="Nacionales",C5N
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/rZtTUCxpPuI
-#EXTINF:0 group-title="Nacionales",A24
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/ArKbAx1K-2U
-#EXTINF:0 group-title="Nacionales",TV PUBLICA
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/RxN5eh8YTRw
-#EXTINF:0 group-title="Nacionales",LN+
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/FEWZjXJ7M0c
-#EXTINF:0 group-title="Nacionales",CANAL 26
-#EXTGRP:Nacionales
-#EXTVLCOPT:network-caching=1000
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
