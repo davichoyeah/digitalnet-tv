@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/n1b27y.png" group-title="🌍 DOCUMENTALES",Canal Universidad
-https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🌍 DOCUMENTALES",Encuentro (720p)
-http://138.59.227.20:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png" group-title="🌍 DOCUMENTALES",Senal U
-https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="🌍 DOCUMENTALES",Television Publica (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SsyFSJ.jpeg" group-title="🌍 DOCUMENTALES",A&E
+https://tecnotv.club/kwf5/phpcode/android3.php?c=a058&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SsyFSJ.jpeg" group-title="🌍 DOCUMENTALES",AXN
+https://tecnotv.club/kwf5/phpcode/android3.php?c=a005&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SsyFSJ.jpeg" group-title="🌍 DOCUMENTALES",Animal Planet
+https://tecnotv.club/kwf5/phpcode/android3.php?c=a07x&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SsyFSJ.jpeg" group-title="🌍 DOCUMENTALES",Television Publica (1080p)
 http://190.128.214.97:64333/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🌍 DOCUMENTALES",TV Publica (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SsyFSJ.jpeg" group-title="🌍 DOCUMENTALES",TV Publica (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4dUvFqa.png" group-title="🌍 DOCUMENTALES",TV Publica Fueguina (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SsyFSJ.jpeg" group-title="🌍 DOCUMENTALES",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CRmY4Oi.png" group-title="🌍 DOCUMENTALES",TV Publica Marcos Paz (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SsyFSJ.jpeg" group-title="🌍 DOCUMENTALES",TV Publica Marcos Paz (720p)
 https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="🌍 DOCUMENTALES",TV Universidad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SsyFSJ.jpeg" group-title="🌍 DOCUMENTALES",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
