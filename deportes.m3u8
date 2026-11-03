@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES",TNT Sports Premium SD
-http://tecnotv.club/kwf5/phpcode/lista4.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES",TNT Sports
+http://181.78.79.131:8000/play/a0mo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES",TyC
 http://tecnotv.club/kwf5/phpcode/lista4.php?c=a047&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES", ESPN
@@ -8,9 +8,9 @@ http://tecnotv.club/kwf5/phpcode/lista1.php?c=a091&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES", ESPN 3
 http://tecnotv.club/kwf5/phpcode/lista1.php?c=a0c3&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES",TyC SPORTS
-http://tecnotv.club/kwf5/phpcode/lista1.php?c=a0kw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES",TVC DEPORTES
-http://tecnotv.club/kwf5/phpcode/lista1.php?c=a0mj&token=tecnotokenplustv230516F&f=.m3u8
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES",FOX SPORT
+http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES",ESPN EXTRA
 http://tecnotv.club/kwf5/phpcode/lista1.php?c=a0kf&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="⚽ DEPORTES",ESPN
