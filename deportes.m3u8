@@ -1,0 +1,7 @@
+#EXTM3U
+# ================================================
+#  ⚽ DEPORTES
+#  Pegá cada canal con este formato:
+#  #EXTINF:-1 tvg-logo="URL-DEL-LOGO" group-title="⚽ DEPORTES",Nombre del canal
+#  https://url-del-stream.m3u8
+# ================================================

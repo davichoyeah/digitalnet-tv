@@ -1,0 +1,9 @@
+#EXTM3U
+# ================================================
+#  🎬 PACK FUTBOL
+#  Pegá cada canal con este formato:
+#  #EXTINF:-1 tvg-logo="URL-DEL-LOGO" group-title="🎬 PACK FUTBOL",ESPN PREMIUM AR
+#  http://158.172.155.130:8000/play/a0ao/index.m3u8
+#  #EXTINF:-1 tvg-logo="URL-DEL-LOGO" group-title="🎬 PACK FUTBOL",TNT SPORT PREMIUM AR
+#  http://181.78.79.131:8000/play/a0q9
+# ================================================

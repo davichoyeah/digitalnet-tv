@@ -1,0 +1,34 @@
+[
+ {
+  "cat": "⚽ DEPORTES",
+  "url": "deportes.m3u8"
+ },
+ {
+  "cat": "🌍 DOCUMENTALES",
+  "url": "documentales.m3u8"
+ },
+ {
+  "cat": "🧒 INFANTILES",
+  "url": "infantiles.m3u8"
+ },
+ {
+  "cat": "🎵 MÚSICA",
+  "url": "musica.m3u8"
+ },
+ {
+  "cat": "📰 NOTICIAS",
+  "url": "noticias.m3u8"
+ },
+ {
+  "cat": "🎬 ONLY+18",
+  "url": "only+18.m3u8"
+ }
+ {
+  "cat": "🎬 PACK FUTBOL",
+  "url": "packfutbol.m3u8"
+ }
+ {
+  "cat": "🎬 PELICULAS",
+  "url": "peliculas.m3u8"
+ }
+]
