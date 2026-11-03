@@ -1,7 +1,2 @@
 #EXTM3U
-# ================================================
-#  🎬 PELÍCULAS
-#  Pegá cada canal con este formato:
-#  #EXTINF:-1 tvg-logo="URL-DEL-LOGO" group-title="🎬 PELÍCULAS",Nombre del canal
-#  https://url-del-stream.m3u8
-# ================================================
+# 🎬 PELICULAS — pegá tus canales acá
