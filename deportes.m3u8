@@ -4,17 +4,17 @@ http://179.64.36.245:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",TyC
 http://181.78.79.131:8000/play/a0t1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES", TNT SPORT PREMIUM
-http://181.78.79.131:8000/play/a0q9
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES", F1 LATINOAMEMRICA
 http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",TyC SPORTS
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",FOX SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",FOX SPORTS
 http://138.59.227.20:8000/play/a085/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",ESPN EXTRA
-http://tecnotv.club/kwf5/phpcode/lista1.php?c=a0kf&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",ESPN
-http://tecnotv.club/kwf5/phpcode/lista2.php?c=a03i&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",FOX SPORTS 2
+https://thedaddy.pk/stream/stream-788.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",FOX SPORTS 3
+https://thedaddy.pk/stream/stream-789.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",ESPN 2
 http://tecnotv.club/kwf5/phpcode/lista2.php?c=a039&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H89tsw3.png" group-title="⚽ DEPORTES",ESPN 3
