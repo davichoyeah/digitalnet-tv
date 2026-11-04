@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="📰 NACIONALES",America TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tyzDG9u.png" group-title="📰 NACIONALES",Telefe
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1771202292~acl=%2f*~data=hdntl~hmac=800532bb29f262bb02f836c6d2d90bb25ac1dc3380a745f8d65a0961f00be94d/canal5rosario0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tga4Lx1.png" group-title="📰 NACIONALES",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="📰 NACIONALES",El Nueve
 https://youtu.be/yGLVhAklLyM
@@ -11,12 +14,12 @@ https://youtu.be/Om7Yej-D-s0
 https://youtu.be/FEWZjXJ7M0c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QnM7O7g.png" group-title="📰 NACIONALES",TV Publica
 https://youtu.be/RxN5eh8YTRw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="📰 NACIONALES",Telefe
-http://181.224.255.210:8001/play/a0q5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="📰 NACIONALES",24/7 Canal de Noticias
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bobkmbB.jpeg" group-title="📰 NACIONALES",Telefe Stream
+https://youtu.be/fr4QCF3739E
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1350_Canal_7_Santiago_del_Estero.png" group-title="📰 NACIONALES",Canal 7 Sgo
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="📰 NACIONALES",A24
 https://youtu.be/ArKbAx1K-2U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="📰 NACIONALES",Canal 26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtSQnOp.png" group-title="📰 NACIONALES",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
